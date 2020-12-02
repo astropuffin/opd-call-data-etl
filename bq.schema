@@ -1,0 +1,1 @@
+Code:STRING,Description:STRING,Source:STRING,Priority:INTEGER,Beat:STRING,Address:STRING,Create_Time:TIMESTAMP,Transmit_Time:TIMESTAMP,DIspatch_Time:TIMESTAMP,Arrival_Time:TIMESTAMP,Closed_Time:TIMESTAMP,Disposition1:STRING,Disposition2:STRING,DIsposition3:STRING,Disposition4:STRING,Disposition5:STRING,Geo:GEOGRAPHY
